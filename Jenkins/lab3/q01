@@ -1,0 +1,7 @@
+what are different method to trigger pipeline in jenkins ? 
+- Build manually.
+- Trigger builds remotely.
+- Build after other projects are built.
+- Build periodically.
+- GitHub webhook trigger.
+- Poll SCM

@@ -1,0 +1,3 @@
+what is the benefit of using master-slave architecture rather than building on master only ?
+- Jenkins can handle 100+ machines and distributes the workload to them automatically.
+- This can create various build sections that supports all the environments that you need to run build/test within.

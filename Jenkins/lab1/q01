@@ -1,0 +1,4 @@
+01) What is Jenkins used for?
+Jenkins is used to enable the integration and automation of different processes,
+including building, testing, and deployment. Jenkins creates 'pipelines',
+which define the series of steps that the server will take to perform the required tasks

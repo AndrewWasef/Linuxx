@@ -1,0 +1,3 @@
+what is the benefit of making organization job in jenkins?
+- Organization Folders enable Jenkins to monitor an entire GitHub Organization
+- and automatically create new Multibranch Pipelines for repositories which contain branches and pull requests containing a Jenkinsfile.
